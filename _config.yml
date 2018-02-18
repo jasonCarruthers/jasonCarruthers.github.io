@@ -1,3 +1,4 @@
 name: Jason Carruthers
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+permalink: /chess/:year/:month/:day/:title
